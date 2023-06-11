@@ -39,7 +39,7 @@
   </div>
   <div class="form-group">
     <label for="number">Contact number</label>
-    <input required  type="text" class="form-control" id="phone" placeholder="Enter number" name="phone">
+    <input required type="text" class="form-control" id="phone" placeholder="Enter number" name="phone">
   </div>
   <div class="form-group">
     <label for="exampleInputPassword1">Password</label>
